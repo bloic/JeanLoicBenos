@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je m'appel Loic</h1>
+<h1 align="center">Bonjour 👋, je m'appelle Loïc</h1>
 <h3 align="center">Je suis développeur web php/symfony</h3>
 
 - 📫 Contact **loic.benos@gmail.com**
